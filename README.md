@@ -11,9 +11,8 @@ Experiência em desenvolvimento Back-end e Front-end, integração de APIs de pa
 </div>
 
 ---
-<p align="center">
- <img src="https://img.icons8.com/liquid-glass/24/rocket.png" width="40">Tecnologias e Ferramentas
-</p>
+
+## 🚀 Tecnologias e Ferramentas
 
 <p align="center">
 
