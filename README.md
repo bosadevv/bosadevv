@@ -48,6 +48,6 @@ Experiência em desenvolvimento Back-end e Front-end, integração de APIs de pa
 
 ## 📫 Contato
 
-- LinkedIn: https://www.linkedin.com/in/renan-barbosa-6100393b4/
-- GitHub: https://github.com/999barbosadev
+- LinkedIn: https://www.linkedin.com/in/renanbarbosadev
+- GitHub: https://github.com/bosadevv
 - Discord: barbosa.dev
