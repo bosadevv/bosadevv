@@ -31,7 +31,7 @@ Experienced with modern web development and backend systems, currently studying 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=bosadevv&theme=dark"/>
+  <img height="140" src="https://streak-stats.demolab.com?user=bosadevv&hide_border=true&background=00000000&ring=888888&fire=888888&currStreakLabel=555555&sideNums=555555&currStreakNum=333333&sideLabels=555555"/>
 </p>
 
 ---
