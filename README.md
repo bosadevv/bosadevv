@@ -38,6 +38,6 @@ Experienced with modern web development and backend systems, currently studying 
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/renanbarbosadev
+
 - GitHub: https://github.com/bosadevv
 - Discord: barbosa.dev
