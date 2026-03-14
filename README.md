@@ -1,19 +1,18 @@
 <div align="center">
 
-<h1>Barbosa</h1>
-<h3>Full Stack Developer</h3>
+# Barbosa
+### Full Stack Developer
 
-<p>
-Programming student currently working in the software development field. 
-Planning to start a <b>Software Engineering degree in 2027</b>. 
-Experienced with modern web development and backend systems, currently studying <b>Angular</b>.
-</p>
+Software developer focused on building modern web applications and backend systems.
+
+Currently studying **Angular** and expanding knowledge in scalable architectures and web technologies.  
+Planning to start a **Software Engineering degree in 2027**.
 
 </div>
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=php,python,html,css,js,cs,angular" />
@@ -21,23 +20,29 @@ Experienced with modern web development and backend systems, currently studying 
 
 ---
 
-## 📂 Featured Repositories
+## Projects
 
-- https://github.com/bosadevv
-- Explore my repositories to see projects related to **web systems, APIs, and automation tools**.
+Explore my repositories to find projects related to:
+
+- Web systems
+- APIs
+- Automation tools
+- Experimental development projects
+
+GitHub:  
+https://github.com/bosadevv
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img height="140" src="https://streak-stats.demolab.com?user=bosadevv&hide_border=true&background=00000000&ring=888888&fire=888888&currStreakLabel=555555&sideNums=555555&currStreakNum=333333&sideLabels=555555"/>
+<img height="140" src="https://streak-stats.demolab.com?user=bosadevv&hide_border=true&background=00000000&ring=888888&fire=888888&currStreakLabel=555555&sideNums=555555&currStreakNum=333333&sideLabels=555555"/>
 </p>
 
 ---
 
-## 📫 Contact
+## Contact
 
-
-- GitHub: https://github.com/bosadevv
+- GitHub: https://github.com/bosadevv  
 - Discord: barbosa.dev
