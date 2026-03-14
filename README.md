@@ -29,8 +29,6 @@ Explore my repositories to find projects related to:
 - Automation tools
 - Experimental development projects
 
-GitHub:  
-https://github.com/bosadevv
 
 ---
 
