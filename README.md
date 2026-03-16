@@ -14,7 +14,7 @@ DEV: -> bosadevv
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="60%" valign="top" align="center">
 
 ### `$ whoami`
 
@@ -51,25 +51,12 @@ status:     [ OPEN TO OPPORTUNITIES ]
 │  → Web Systems      Robust, scalable full-stack apps│
 │  → REST APIs        Clean architecture & endpoints  │
 │  → Automation       Scripts that work while you rest│
-│  → Experiments      Side projects. R&D. Curiosity.  │
 └─────────────────────────────────────────────────────┘
 ```
 
 > Browse my repositories to see what I've been building.
 
----
 
-### `$ git log --stat`
-
-<div align="center">
-
-<img height="145" src="https://streak-stats.demolab.com?user=bosadevv&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e&sideNums=c9d1d9&currStreakNum=e6edf3&sideLabels=8b949e&dates=6e7681&stroke=30363d&font=JetBrains+Mono" />
-
-<img height="145" src="https://github-readme-stats.vercel.app/api?username=bosadevv&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
-
-</div>
-
----
 
 
 
