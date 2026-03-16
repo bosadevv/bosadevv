@@ -28,7 +28,7 @@ status:     [ OPEN TO OPPORTUNITIES ]
 ```
 
 </td>
-<td width="40%" valign="top">
+<td width="60%" valign="top">
 
 ### `$ ls ./skills`
 
