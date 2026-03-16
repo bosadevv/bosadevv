@@ -28,7 +28,8 @@ status:     [ OPEN TO OPPORTUNITIES ]
 ```
 
 </td>
-
+</tr>
+</table>
 
 ---
 <td width="60%" valign="top">
@@ -42,8 +43,7 @@ status:     [ OPEN TO OPPORTUNITIES ]
 
 
 </td>
-</tr>
-</table>
+
 
 ### `$ cat projects.log`
 
