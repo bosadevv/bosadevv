@@ -29,11 +29,6 @@ status:     [ OPEN TO OPPORTUNITIES ]
 
 </td>
 </tr>
-</table>
-
----
-<table>
-<tr>
 <td width="60%" valign="top">
 
 ### `$ ls ./skills`
@@ -45,8 +40,12 @@ status:     [ OPEN TO OPPORTUNITIES ]
 
 
 </td>
-</tr>
 </table>
+
+---
+
+
+
 
 
 ### `$ cat projects.log`
