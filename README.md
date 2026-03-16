@@ -36,9 +36,7 @@ status:     [ OPEN TO OPPORTUNITIES ]
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=php,python,js&theme=dark" /><br><br>
-<img src="https://skillicons.dev/icons?i=html,css,cs&theme=dark" /><br><br>
-<img src="https://skillicons.dev/icons?i=angular&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,python,js,html,css,cs,angular&theme=dark" />
 
 </td>
 
