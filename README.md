@@ -11,10 +11,9 @@ DEV: -> bosadevv
 </div>
 
 ---
+<div style="display:flex; gap:40px; width:100%;">
 
-<table>
-<tr>
-<td width="60%" valign="top" >
+<div style="flex:1;">
 
 ### `$ whoami`
 
@@ -25,23 +24,15 @@ focus:      Web Applications & Backend Systems
 studying:   Angular · Scalable Architecture
 next:       Software Engineering Degree → 2027
 status:     [ OPEN TO OPPORTUNITIES ]
-```
+</div> <div style="flex:1; text-align:center;">
+$ ls ./skills
 
-</td>
-
-<td width="60%">
-
-### `$ ls ./skills`
-<p align="center"><br>
 <img src="https://skillicons.dev/icons?i=php,python,js&theme=dark" /><br><br>
 <img src="https://skillicons.dev/icons?i=html,css,cs&theme=dark" /><br><br>
 <img src="https://skillicons.dev/icons?i=angular&theme=dark" />
-</p>
 
-
-</td>
-</tr>
-</table>
+</div> </div>
+```
 
 ---
 
