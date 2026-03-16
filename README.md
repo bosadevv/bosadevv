@@ -20,10 +20,6 @@
 
 ---
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 ### `$ whoami`
 
 ```yaml
@@ -35,20 +31,15 @@ next:       Software Engineering Degree → 2027
 status:     [ OPEN TO OPPORTUNITIES ]
 ```
 
-</td>
-<td width="40%" valign="top">
+---
 
 ### `$ ls ./skills`
 
-<p align="center"><br>
-<img src="https://skillicons.dev/icons?i=php,python,js&theme=dark" /><br><br>
-<img src="https://skillicons.dev/icons?i=html,css,cs&theme=dark" /><br><br>
-<img src="https://skillicons.dev/icons?i=angular&theme=dark" />
-</p>
+<div align="center">
 
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=php,python,js,html,css,cs,angular&theme=dark&perline=7" />
+
+</div>
 
 ---
 
@@ -71,9 +62,9 @@ status:     [ OPEN TO OPPORTUNITIES ]
 
 <div align="center">
 
-<img height="145" src="https://streak-stats.demolab.com?user=bosadevv&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e&sideNums=c9d1d9&currStreakNum=e6edf3&sideLabels=8b949e&dates=6e7681&stroke=30363d&font=JetBrains+Mono" />
+<img width="100%" src="https://streak-stats.demolab.com?user=bosadevv&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e&sideNums=c9d1d9&currStreakNum=e6edf3&sideLabels=8b949e&dates=6e7681&stroke=30363d&font=JetBrains+Mono" />
 
-<img height="145" src="https://github-readme-stats.vercel.app/api?username=bosadevv&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=bosadevv&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
 
 </div>
 
