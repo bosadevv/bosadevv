@@ -32,16 +32,16 @@ status:     [ OPEN TO OPPORTUNITIES ]
 
 ### `$ ls ./skills`
 
+
+
+</td>
+</tr>
+</table>
 <p align="center"><br>
 <img src="https://skillicons.dev/icons?i=php,python,js&theme=dark" /><br><br>
 <img src="https://skillicons.dev/icons?i=html,css,cs&theme=dark" /><br><br>
 <img src="https://skillicons.dev/icons?i=angular&theme=dark" />
 </p>
-
-</td>
-</tr>
-</table>
-
 ---
 
 ### `$ cat projects.log`
