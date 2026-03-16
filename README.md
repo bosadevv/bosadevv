@@ -2,7 +2,7 @@
  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:06b6d4&height=120&section=header" />
  
-```
+
 ╔══════════════════════════════════════════════╗
 ║                                              ║
 ║            B A R B O S A . D E V             ║
@@ -10,7 +10,7 @@
 ║            Full Stack Developer              ║
 ║                                              ║
 ╚══════════════════════════════════════════════╝
-```
+
 
 *Building modern web systems, one commit at a time.*
 
