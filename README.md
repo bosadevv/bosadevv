@@ -14,7 +14,7 @@ DEV: -> bosadevv
 
 <table>
 <tr>
-<td width="60%" valign="top" align="center">
+<td width="60%" valign="top" >
 
 ### `$ whoami`
 
