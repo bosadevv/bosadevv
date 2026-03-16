@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=120&section=header&text=&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:06b6d4&height=120&section=header" />
 
 ```
 ╔══════════════════════════════════════════════╗
 ║                                              ║
-║         B A R B O S A . D E V               ║
-║         ─────────────────────               ║
-║         Full Stack Developer                ║
+║            B A R B O S A . D E V             ║
+║            ─────────────────────             ║
+║            Full Stack Developer              ║
 ║                                              ║
 ╚══════════════════════════════════════════════╝
 ```
@@ -20,6 +20,10 @@
 
 ---
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 ### `$ whoami`
 
 ```yaml
@@ -31,15 +35,20 @@ next:       Software Engineering Degree → 2027
 status:     [ OPEN TO OPPORTUNITIES ]
 ```
 
----
+</td>
+<td width="40%" valign="top">
 
 ### `$ ls ./skills`
 
-<div align="center">
+<p align="center"><br>
+<img src="https://skillicons.dev/icons?i=php,python,js&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=html,css,cs&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=angular&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=php,python,js,html,css,cs,angular&theme=dark&perline=7" />
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -62,9 +71,9 @@ status:     [ OPEN TO OPPORTUNITIES ]
 
 <div align="center">
 
-<img width="100%" src="https://streak-stats.demolab.com?user=bosadevv&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e&sideNums=c9d1d9&currStreakNum=e6edf3&sideLabels=8b949e&dates=6e7681&stroke=30363d&font=JetBrains+Mono" />
+<img height="145" src="https://streak-stats.demolab.com?user=bosadevv&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e&sideNums=c9d1d9&currStreakNum=e6edf3&sideLabels=8b949e&dates=6e7681&stroke=30363d&font=JetBrains+Mono" />
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=bosadevv&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+<img height="145" src="https://github-readme-stats.vercel.app/api?username=bosadevv&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
 
 </div>
 
@@ -82,6 +91,6 @@ status:     [ OPEN TO OPPORTUNITIES ]
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0a0a0a&height=80&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:06b6d4&height=120&section=header" />
 
 </div>
