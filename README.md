@@ -56,10 +56,11 @@ status:     [ OPEN TO OPPORTUNITIES ]
 ```
 
 > Browse my repositories to see what I've been building.
-> "The first to apologize, is the bravest."
-> "The first to forgive, is the strongest."
-> "And the first to forget, is the happiest."
-> "Forgive others not because they deserve forgiveness."
+ <br>
+> "The first to apologize, is the bravest."<br>
+> "The first to forgive, is the strongest."<br>
+> "And the first to forget, is the happiest."<br>
+> "Forgive others not because they deserve forgiveness."<br>
 > "But because you... Deserve peace."
 
 
