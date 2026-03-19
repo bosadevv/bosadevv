@@ -55,8 +55,7 @@ status:     [ OPEN TO OPPORTUNITIES ]
 └─────────────────────────────────────────────────────┘
 ```
 
-> Browse my repositories to see what I've been building.
- <br>
+> Browse my repositories to see what I've been building.<br>
 > "The first to apologize, is the bravest."<br>
 > "The first to forgive, is the strongest."<br>
 > "And the first to forget, is the happiest."<br>
