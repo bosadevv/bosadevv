@@ -21,5 +21,6 @@
 
 
 > *"Forgive others not because they deserve it — but because you deserve peace."*
+> I Have no Enimies. God Love *you*
 
 >  Rises The Moon
